@@ -1,5 +1,3 @@
-package eeub35.bangor.ac.uk;
-
 public class Customer {
 	
 	private int items;
