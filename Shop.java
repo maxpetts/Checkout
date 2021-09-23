@@ -1,5 +1,3 @@
-package eeub35.bangor.ac.uk;
-
 import java.io.InputStreamReader;
 import javax.swing.JPanel;
 
