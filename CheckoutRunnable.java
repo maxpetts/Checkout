@@ -1,5 +1,3 @@
-package eeub35.bangor.ac.uk;
-
 public class CheckoutRunnable implements Runnable {
 
 	private Checkout checkout;
