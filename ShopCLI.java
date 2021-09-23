@@ -1,5 +1,3 @@
-package eeub35.bangor.ac.uk;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
