@@ -1,5 +1,3 @@
-package eeub35.bangor.ac.uk;
-
 public class ShopTester {
 	public static void main(String[] args) {
 		Shop shop = new Shop();
