@@ -1,5 +1,3 @@
-package eeub35.bangor.ac.uk;
-
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
